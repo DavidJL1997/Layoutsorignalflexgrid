@@ -1,0 +1,46 @@
+
+
+p{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+    background-color: yellow
+}
+
+.red-box{
+    height: 500px;
+    width:500px;
+    background: rgba(255,0,0,.5);
+    float: left
+}
+
+.blue-box{
+    height: 400px;
+    width: 700px;
+    background: blue;
+    color: white;
+    float: right;
+}
+.box1 {
+    background:pink;
+    float: left;
+}
+.box2 {
+    background:red;
+    float:left;
+}
+.box3 {
+    background: firebrick;
+    float:left;
+}
+.box4{
+    baclground: orange;
+}
+.box5 {
+    background: yellow;
+    clear:both;
+}
+img{
+    float: right;
+    margin-right: 20px;
+}
